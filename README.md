@@ -1,6 +1,5 @@
-#### DEPLOYMENT LINKS
-FRONTEND -
-
+#### DEMO VIDEO
+https://drive.google.com/file/d/1sBvdaCHN1dsfPdk-ioJYUoU7TnCeqH6N/view?usp=sharing
 
 ### BACKEND REPOSITORY 
 https://github.com/akamrannicole/Eats-food-delivery-plartform-backend
